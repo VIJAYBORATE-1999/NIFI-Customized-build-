@@ -122,3 +122,10 @@ mvn clean install -pl nifi-assembly -am
 bin/nifi.sh restart
 
 ```
+
+5. OUTPUT :<br><br>
+
+<img src="Images/IMAGE1.png"> <br><br>
+<img src="Images/IMAGE2.png"> <br><br>
+<img src="Images/IMAGE3.png"> <br><br>
+
